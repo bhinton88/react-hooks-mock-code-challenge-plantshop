@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 12.45
     },
     {
       "id": 2,
@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Fern",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-fern__0898090_pe782562_s5.jpg?f=s",
+      "price": 22,
+      "id": 8
+    },
+    {
+      "name": "Succulent",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZcjJha4fWvVeZ2vWMAbyCuBf8sBA6lAXhrY4h_gcU_wCgeEengtOoV8AvWq_Up4zUCs&usqp=CAU",
+      "price": 5,
+      "id": 9
+    },
+    {
+      "name": "Cat Palm",
+      "image": "https://www.houseplant411.com/wp-content/uploads/il_1588xN.2927488134_2zsg.jpg",
+      "price": 15,
+      "id": 10
     }
   ]
 }
